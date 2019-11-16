@@ -16,16 +16,7 @@ background-size:100px 50px;
 * {
   box-sizing: border-box;
 }
-nav {
-  margin-bottom: 0px;
-  padding: 20px;
-}
-.container-fluid {
-  padding-right: 160px;
-  padding-left: 130px;
-  margin-right: auto;
-  margin-left: auto;
-}
+
 #header {
   background-color: #ffffff;
   font-family: "Georgia", Times, Times New Roman, serif;
