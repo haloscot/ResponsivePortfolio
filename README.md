@@ -6,6 +6,7 @@ In this assignment, we were required to revise the portfolio we created in the f
 
 
 Click on the following link to preview the completed assignment.
+https://haloscot.github.io/ResponsivePortfolio/
 
 
 Built With
