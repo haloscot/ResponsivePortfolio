@@ -11,7 +11,7 @@ body{
 }
 
 .navbar-brand-teal {
-  background-color: #4aaaa5;
+  background-color: #e84817;
   color: #ffffff;
   font-size: 30px;
   font-weight: bold;
@@ -23,7 +23,7 @@ body{
 .navbar-brand-teal:hover {
     color: white;
     text-decoration: none;
-    text-shadow: 2px 2px #266a7c;
+    text-shadow: 2px 2px #e84817;
 }
 .inside-pad{
   padding: 0px 30px 10px 30px;
@@ -69,11 +69,11 @@ h1,
 h2 {
     font-weight: 500;
     font-family: Georgia, Times, "Times New Roman", serif;
-    color: #4aaaa5;
+    color: #e84817;
 }
 
 .footer {
-  border-top: 5px solid #4aaaa5;
+  border-top: 5px solid #e84817;
   position: fixed;
   bottom: 0;
   z-index:1;
@@ -115,7 +115,27 @@ h2 {
   padding-bottom: 4px;
   z-index: 1;
   position: absolute;
-  background-color: #4aaaa5;
+  background-color: #e84817;
   bottom: 10px;
 
+}
+
+.card {
+  margin: 10px
+}
+
+.socialicons {
+  width: 65px;
+  height: 65px;
+  margin-top: 10px;
+}
+
+#profilepic {
+  padding-bottom: 10px;
+  padding-right: 10px;
+  float: left;
+
+}
+.navbar {
+  padding: 0px
 }
